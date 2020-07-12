@@ -1,2 +1,2 @@
-# Analises_Economicas
+# Análises Econômicas
  Pretende-se reunir várias análises econômicas.
